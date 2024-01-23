@@ -2,3 +2,4 @@ This is how you incert text.
 Added  a new line.
 person 1 added a line here.
 Another comment
+person 2 added a line here
